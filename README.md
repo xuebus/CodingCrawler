@@ -8,8 +8,11 @@ CodingCrawler use play2 framework to develop.
 ### install
 
 > cd CodingCrawler
+
 > sbt
+
 > compile
+
 > run -Dhttp.port=12000
 
 now you have to visist localhost:1200 to start the program!
